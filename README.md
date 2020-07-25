@@ -17,6 +17,6 @@ that is also just in one place.
 
 ## Running the tests
 
-To run the test either execute the TestRunner class found here: 
+To run the test either execute the TestRunner class found here: https://github.com/alexwalker1993/Alex-Walker-DWP-Test/blob/master/src/test/java/testRunners/TestRunner.java
 
 Or run ```mvn clean install``` from the command line
